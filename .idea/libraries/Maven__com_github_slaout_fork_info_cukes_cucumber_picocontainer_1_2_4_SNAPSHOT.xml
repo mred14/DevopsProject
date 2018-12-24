@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.slaout.fork.info.cukes:cucumber-picocontainer:1.2.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/slaout/fork/info/cukes/cucumber-picocontainer/1.2.4-SNAPSHOT/cucumber-picocontainer-1.2.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/slaout/fork/info/cukes/cucumber-picocontainer/1.2.4-SNAPSHOT/cucumber-picocontainer-1.2.4-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/slaout/fork/info/cukes/cucumber-picocontainer/1.2.4-SNAPSHOT/cucumber-picocontainer-1.2.4-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

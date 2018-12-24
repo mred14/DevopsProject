@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteGUI" parallel="false">
+    <test name="WebDriverTest">
+        <classes>
+            <class name="WebDriverTest"/>
+        </classes>
+    </test>
+</suite>
