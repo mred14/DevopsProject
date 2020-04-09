@@ -12,27 +12,27 @@
         <!-- Cucumber project from Slaout Dependencies -->
 
         <dependency>
-            <groupId>com.github.slaout.fork.info.cukes</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-core</artifactId>
-            <version>1.2.4-SNAPSHOT</version>
+            <version>1.2.4</version>
         </dependency>
 
         <dependency>
-            <groupId>com.github.slaout.fork.info.cukes</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-java</artifactId>
-            <version>1.2.4-SNAPSHOT</version>
+            <version>1.2.4</version>
         </dependency>
 
         <dependency>
-            <groupId>com.github.slaout.fork.info.cukes</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-junit</artifactId>
-            <version>1.2.4-SNAPSHOT</version>
+            <version>1.2.4</version>
         </dependency>
 
         <dependency>
-            <groupId>com.github.slaout.fork.info.cukes</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-picocontainer</artifactId>
-            <version>1.2.4-SNAPSHOT</version>
+            <version>1.2.4</version>
         </dependency>
 
         <!-- Cucumber project from Slaout Dependencies End Here -->
